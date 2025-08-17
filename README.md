@@ -33,3 +33,18 @@ This involves exploring the data to answer questions like
 12. Can you detect any seasonal patterns in product sales even with inconsistent date formats?
 13. What impact are returned products having on our overall revenue?
 14. Is there any connection between a product’s category, its price, and how well it sells?
+
+### DATA ANALYSIS
+1. 108 records are missing important detales like Saale date or status
+ and this can affect analyss by making it diificult to track sales ovr time, identify seasonal trends. Risk of bias and reduced accuracy.
+2. Total Revenue is gotten by Price x Quantity sold
+   - Top Revenue by Category is Electronics and Appliances
+   - Top Revenue by Product is Toaster and Fridge.
+3. Sales trend over time
+   - GROWTH PHASE: The sales consistently increased from January to March, reaching a peak in March. This may b dur to seasonal demand, successful promotions, or other mrket factors
+   - DECLINE PHASE:  From April, sales began to drop and it became more severe through June and July, which may be as a result of reduced demand, market stucture, fewer marketing         efforts etc.
+4. The store Location with highest number of product sale is - Lagos
+   The store Location with lowest number of product sale is - Port harcourt.
+5. The product Category with the highgest average price is Appliances.
+6. Best performing product based on Quantity sold is Fridge
+   Best performing product based on Revenue is Toaster. 

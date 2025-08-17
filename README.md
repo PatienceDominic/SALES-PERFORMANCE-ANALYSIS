@@ -7,4 +7,29 @@ The project explores a sales  dataset containing inconsistencies and missing val
 - Fields : 8
 - Contents of the Datasets are
     - Product Id, Product Name, Category, Price, Quantity Sold, Sale_Date, Store Location, Status, Total sales.
-### 
+
+### TOOL USED
+Excel for data cleaning and uploading 
+
+### DATA CLEANING AND PREPARATION
+In this aspect the data was loaded, inspected and cleaned . 
+  - Using Power query to standardize the product name and categories,
+  - Corrected the inconsistent date format,
+  - Removed rows with missing data.
+
+### EXPLORATORY DATA ANLYSIS
+This involves exploring the data to answer questions like
+1. How many records are missing important details like sale date or status, and how could that affect our analysis?
+2. What is the total revenue generated for each product and category?
+3. Can you identify any trends in sales over time, despite the inconsistent date entries?
+4. Which store location sold the highest and lowest number of products?
+5. What is the average price within each product category, and are there any unusual or extreme values?
+6. Which products are performing best in terms of quantity sold and total revenue?
+7. Are we overstocking or understocking any specific products based on the current sales data?
+8. Which store locations have the highest rate of product returns, and is there any identifiable pattern?
+9. Can you build a dashboard that shows product performance by category and by store location?
+10. Are there certain products that are being returned more frequently than others, and why might that be?
+11. How does each product’s performance differ across store locations like Lagos, Abuja, and Ibadan?
+12. Can you detect any seasonal patterns in product sales even with inconsistent date formats?
+13. What impact are returned products having on our overall revenue?
+14. Is there any connection between a product’s category, its price, and how well it sells?

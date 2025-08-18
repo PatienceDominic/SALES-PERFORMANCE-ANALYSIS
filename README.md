@@ -74,7 +74,7 @@ This involves exploring the data to answer questions like
 12. : Yes, seasonal patterns can still be detected after cleaning and standardizing the dates.
     - If some dates are missing or wrongly formatted, you can impute missing values or drop the unusable records.
 
-13. 1. Direct Revenue Impact
+13. Return Revenue Impact
  - Returns directly lower revenue because refunded sales don’t count toward net sales.
 .- Returns aren’t just lost sales — they often create additional costs:
 

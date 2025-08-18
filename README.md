@@ -48,3 +48,11 @@ This involves exploring the data to answer questions like
 5. The product Category with the highgest average price is Appliances.
 6. Best performing product based on Quantity sold is Fridge
    Best performing product based on Revenue is Toaster. 
+7. no specific product is overstocked or understocked.
+8. The highest returned rate by location
+    - Lagos
+9. An Excel dashboard have been created to shpow product performane and slicers for interaction withi the dashboard.
+10. Most frequent returned product is
+     - fridge and laptop.
+     - This could be as a result of mismatch between expectation and reality.
+     - Product defects or damage.

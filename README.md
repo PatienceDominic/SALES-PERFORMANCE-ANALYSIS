@@ -54,7 +54,9 @@ This involves exploring the data to answer questions like
     - Best performing product based on Quantity sold is Fridge
     - Best performing product based on Revenue is Toaster. 
 
-7. no specific product is overstocked or understocked.
+7.#### Stocking
+ - Overstocking ... Fridges
+ - Understocking ...Shoes
 
 8. #### The highest returned rate by location
     - Lagos
@@ -94,7 +96,7 @@ This involves exploring the data to answer questions like
 https://github.com/PatienceDominic/SALES-PERFORMANCE-ANALYSIS/tree/main
 
 #### Author
-Efut Patience Dominic is a Data Analyst enthusiast with a strong passion for transforming data into meaningful and  actionable insights. Always eager to explore data drivn solutions, leveraging analytical tools and techniques to uncover trends, support decision making and drive impactful outcomes. 
+Efut Patience Dominic is a Data Analyst enthusiast with a strong passion for transforming data into meaningful and  actionable insights. Always eager to explore data driven solutions, leveraging analytical tools and techniques to uncover trends, support decision making and drive impactful outcomes. 
 
 #### Conclusion
 The sales performance dashboard derive meaningful insights from the dataset to understand product and store performance across locations, time periods and categories. 

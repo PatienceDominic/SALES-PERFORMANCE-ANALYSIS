@@ -54,7 +54,7 @@ This involves exploring the data to answer questions like
     - Best performing product based on Quantity sold is Fridge
     - Best performing product based on Revenue is Toaster. 
 
-7.#### Stocking
+7. ####  Stocking
  - Overstocking ... Fridges
  - Understocking ...Shoes
 

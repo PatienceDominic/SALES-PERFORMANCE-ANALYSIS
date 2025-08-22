@@ -91,6 +91,14 @@ This involves exploring the data to answer questions like
  - README.md
  - Charts
 
+https://github.com/PatienceDominic/SALES-PERFORMANCE-ANALYSIS/tree/main
+
+#### Author
+Efut Patience Dominic is a Data Analyst enthusiast with a strong passion for transforming data into meaningful and  actionable insights. Always eager to explore data drivn solutions, leveraging analytical tools and techniques to uncover trends, support decision making and drive impactful outcomes. 
+
+#### Conclusion
+The sales performance dashboard derive meaningful insights from the dataset to understand product and store performance across locations, time periods and categories. 
+
 
 
 

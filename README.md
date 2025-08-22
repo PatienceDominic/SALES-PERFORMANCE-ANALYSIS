@@ -42,46 +42,52 @@ This involves exploring the data to answer questions like
    - Top Revenue by Category is Electronics and Appliances
    - Top Revenue by Product is Toaster and Fridge.
 
-3. Sales trend over time
+3. #### Sales trend over time
    - GROWTH PHASE: The sales consistently increased from January to March, reaching a peak in March. This may b dur to seasonal demand, successful promotions, or other mrket factors
    - DECLINE PHASE:  From April, sales began to drop and it became more severe through June and July, which may be as a result of reduced demand, market stucture, fewer marketing         efforts etc.
-
-4. The store Location with highest number of product sale is - Lagos
-   The store Location with lowest number of product sale is - Port harcourt.
+4. #### Store Performance
+    - The store Location with highest number of product sale is - Lagos                                                                                                                    - The store Location with lowest number of product sale is - Port harcourt.
 
 5. The product Category with the highgest average price is Appliances.
 
-6. Best performing product based on Quantity sold is Fridge
-   Best performing product based on Revenue is Toaster. 
+6. #### Product Performance
+    - Best performing product based on Quantity sold is Fridge
+    - Best performing product based on Revenue is Toaster. 
 
 7. no specific product is overstocked or understocked.
 
-8. The highest returned rate by location
+8. #### The highest returned rate by location
     - Lagos
 
-9. An Excel dashboard have been created to shpow product performane and slicers for interaction withi the dashboard.
+9. An Excel dashboard have been created to shpow product performane and slicers for interaction within the dashboard.
 
-10. Most frequent returned product is
+10. #### Most frequent returned product 
      - fridge and laptop.
      - This could be as a result of mismatch between expectation and reality.
      - Product defects or damage.
 
-11. Product  performance across locations
+11. #### Product  performance across locations
     - Toaster and Fridge sells more in Lagos
     - Shirt and Shoes sell more in Ibadan
     - Mobile phone and Fan sells more in Kano.
 
-12. : Yes, seasonal patterns can still be detected after cleaning and standardizing the dates.
+12. #### Seasonal Patterns
+    - Yes, seasonal patterns can still be detected after cleaning and standardizing the dates.
     - If some dates are missing or wrongly formatted, you can impute missing values or drop the unusable records.
 
-13. Return Revenue Impact
+13. #### Return Revenue Impact
  - Returns directly lower revenue because refunded sales don’t count toward net sales.
 .- Returns aren’t just lost sales — they often create additional costs:
 
-14. Relation between Category.Prrice and how it sells
+14. #### Relation between Category.Prrice and how it sells
     - A product’s category shapes how sensitive sales are to price changes.
     - High-price will lead to low-volume of sales.
     - Luxury categories often sell fewer units but at higher margins.
     - Low-price will lead to high-volume of sales.
     - Mass-market categories rely on affordable pricing and bulk sales
+
+#### Files
+ - Sales_Data_Analysis.xlsx - Contains Raw Data, Cleaned Sheets, Pivot Tables and Dashboards.
+ - README.md
+ - Charts
     

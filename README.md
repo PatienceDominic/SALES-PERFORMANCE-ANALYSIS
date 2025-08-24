@@ -35,16 +35,17 @@ This involves exploring the data to answer questions like
 14. Is there any connection between a product’s category, its price, and how well it sells?
 
 ### DATA ANALYSIS
-1. 108 records are missing important detales like Saale date or status
- and this can affect analyss by making it diificult to track sales ovr time, identify seasonal trends. Risk of bias and reduced accuracy.
+1. 108 records are missing important details like Sale date or status
+ and this can affect analysis by making it difficult to track sales over time, identify seasonal trends. Risk of bias and reduced accuracy.
 
 2. Total Revenue is gotten by Price x Quantity sold
    - Top Revenue by Category is Electronics and Appliances
    - Top Revenue by Product is Toaster and Fridge.
 
 3. #### Sales trend over time
-   - GROWTH PHASE: The sales consistently increased from January to March, reaching a peak in March. This may b dur to seasonal demand, successful promotions, or other mrket factors
+   - GROWTH PHASE: The sales consistently increased from January to March, reaching a peak in March. This may be due to seasonal demand, successful promotions, or other market factors
    - DECLINE PHASE:  From April, sales began to drop and it became more severe through June and July, which may be as a result of reduced demand, market stucture, fewer marketing         efforts etc.
+
 4. #### Store Performance
     - The store Location with highest number of product sale is - Lagos                                                                                                                    - The store Location with lowest number of product sale is - Port harcourt.
 
@@ -61,7 +62,7 @@ This involves exploring the data to answer questions like
 8. #### The highest returned rate by location
     - Lagos
 
-9. An Excel dashboard have been created to shpow product performane and slicers for interaction within the dashboard.
+9. An Excel dashboard have been created to show product performance and slicers for interaction within the dashboard.
 
 10. #### Most frequent returned product 
      - fridge and laptop.
@@ -81,7 +82,7 @@ This involves exploring the data to answer questions like
  - Returns directly lower revenue because refunded sales don’t count toward net sales.
 .- Returns aren’t just lost sales — they often create additional costs:
 
-14. #### Relation between Category.Prrice and how it sells
+14. #### Relation between Category,Prrice and how it sells
     - A product’s category shapes how sensitive sales are to price changes.
     - High-price will lead to low-volume of sales.
     - Luxury categories often sell fewer units but at higher margins.
